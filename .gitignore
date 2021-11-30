@@ -53,5 +53,6 @@ dkms.conf
 
 # Misc
 fdf
+*.fdf
 *.swiftdoc
 *.swiftmodule
