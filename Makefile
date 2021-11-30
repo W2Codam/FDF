@@ -6,7 +6,7 @@
 #    By: lde-la-h <lde-la-h@student.codam.nl>         +#+                      #
 #                                                    +#+                       #
 #    Created: 2021/10/26 18:09:51 by lde-la-h      #+#    #+#                  #
-#    Updated: 2021/11/12 16:30:03 by lde-la-h      ########   odam.nl          #
+#    Updated: 2021/11/30 10:12:03 by lde-la-h      ########   odam.nl          #
 #                                                                              #
 # **************************************************************************** #
 
@@ -19,7 +19,7 @@ RESET = \033[0m
 RED   = \x1b[31m
 
 # Library location, maybe can be made more efficient
-FDF= ./
+FDF= include/
 LIBMLX= include/libmlx
 LIBFT= include/libft
 MLX= include/mlx
